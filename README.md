@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Michael! 👋
 
-# My name is Michael
-and I'm an informatics student from Austria. I enjoy coding and I especially like learning new programming languages and concepts.
+My name is Michael and I'm an informatics student from Austria. I enjoy coding and I especially like learning new programming languages and concepts.
 
 ## Skills: 
 * 🖥️ JS / HTML / CSS
