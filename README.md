@@ -1,7 +1,5 @@
 ### Hi there, I'm Michael! 👋
 
-My name is Michael and I'm an informatics student from Austria. I enjoy coding and I especially like learning new programming languages and concepts.
-
 ## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -17,9 +15,8 @@ My name is Michael and I'm an informatics student from Austria. I enjoy coding a
 
 ## Recent activities
 
-- 🔭 I’m currently working on a python discord bot 
 - 🌱 I’m currently learning Python and C# 
-- 🖥️ I’m also trying out coding an ALT:V Server
+
 
 
 ## Stats
